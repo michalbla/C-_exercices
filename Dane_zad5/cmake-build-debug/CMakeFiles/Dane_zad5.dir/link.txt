@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/Dane_zad5.dir/main.cpp.o -o Dane_zad5

@@ -1,3 +1,3 @@
-/home/michal/Desktop/zadania/log_zad5/cmake-build-debug/CMakeFiles/log_zad5.dir
-/home/michal/Desktop/zadania/log_zad5/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/michal/Desktop/zadania/log_zad5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/michal/Desktop/C-_exercices/log_zad5/cmake-build-debug/CMakeFiles/log_zad5.dir
+/home/michal/Desktop/C-_exercices/log_zad5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/michal/Desktop/C-_exercices/log_zad5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
