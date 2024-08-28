@@ -1,0 +1,3 @@
+/home/michal/Desktop/zadania/for_zad5/cmake-build-debug/CMakeFiles/for_zad5.dir
+/home/michal/Desktop/zadania/for_zad5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/michal/Desktop/zadania/for_zad5/cmake-build-debug/CMakeFiles/rebuild_cache.dir

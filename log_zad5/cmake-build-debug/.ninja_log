@@ -1,0 +1,19 @@
+# ninja log v6
+361	404	1724827039268507432	log_zad5	fb36e9269dba8b7f
+55	58	1724827038961839959	CMakeFiles/log_zad5.dir/main.cpp.o.modmap	3cfa28a5882bd7b7
+55	58	1724827038961839959	/home/michal/Desktop/zadania/log_zad5/cmake-build-debug/CMakeFiles/log_zad5.dir/CXXModules.json	3cfa28a5882bd7b7
+58	361	1724827038965173301	CMakeFiles/log_zad5.dir/main.cpp.o	9b2cc545148f1929
+55	58	1724827038961839959	CMakeFiles/log_zad5.dir/CXX.dd	3cfa28a5882bd7b7
+1	55	1724827038908506487	CMakeFiles/log_zad5.dir/main.cpp.o.ddi	bd22421e2c866d19
+2	60	1724827059998568384	CMakeFiles/log_zad5.dir/main.cpp.o.ddi	bd22421e2c866d19
+60	62	1724827060055235236	CMakeFiles/log_zad5.dir/CXX.dd	3cfa28a5882bd7b7
+60	62	1724827060055235236	/home/michal/Desktop/zadania/log_zad5/cmake-build-debug/CMakeFiles/log_zad5.dir/CXXModules.json	3cfa28a5882bd7b7
+60	62	1724827060055235236	CMakeFiles/log_zad5.dir/main.cpp.o.modmap	3cfa28a5882bd7b7
+62	375	1724827060058568579	CMakeFiles/log_zad5.dir/main.cpp.o	9b2cc545148f1929
+375	414	1724827060371902936	log_zad5	fb36e9269dba8b7f
+1	57	1724827073358614437	CMakeFiles/log_zad5.dir/main.cpp.o.ddi	bd22421e2c866d19
+57	59	1724827073415281310	CMakeFiles/log_zad5.dir/CXX.dd	3cfa28a5882bd7b7
+57	59	1724827073415281310	/home/michal/Desktop/zadania/log_zad5/cmake-build-debug/CMakeFiles/log_zad5.dir/CXXModules.json	3cfa28a5882bd7b7
+57	59	1724827073415281310	CMakeFiles/log_zad5.dir/main.cpp.o.modmap	3cfa28a5882bd7b7
+59	357	1724827073418614656	CMakeFiles/log_zad5.dir/main.cpp.o	9b2cc545148f1929
+357	399	1724827073715282404	log_zad5	fb36e9269dba8b7f
