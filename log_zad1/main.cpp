@@ -30,7 +30,7 @@ int main() {
     }
 
     for(int i = 0; i < words.size(); i++) {
-        cout << words[i] << endl;
+        cout << words[i] << " ";
     }
     return 0;
 }
