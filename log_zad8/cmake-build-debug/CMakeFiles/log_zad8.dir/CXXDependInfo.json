@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/michal/Desktop/C-_exercices/log_zad8/cmake-build-debug",
+	"dir-cur-src" : "/home/michal/Desktop/C-_exercices/log_zad8",
+	"dir-top-bld" : "/home/michal/Desktop/C-_exercices/log_zad8/cmake-build-debug",
+	"dir-top-src" : "/home/michal/Desktop/C-_exercices/log_zad8",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/michal/Desktop/C-_exercices/log_zad8/cmake-build-debug/CMakeFiles/log_zad8.dir"
+}
