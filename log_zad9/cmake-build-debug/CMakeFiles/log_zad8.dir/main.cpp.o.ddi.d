@@ -1,6 +1,6 @@
-CMakeFiles/log_zad7.dir/main.cpp.o.ddi: \
- /home/michal/Desktop/C-_exercices/log_zad7/main.cpp \
- /usr/include/stdc-predef.h /usr/include/c++/14.2.1/iostream \
+CMakeFiles/log_zad8.dir/main.cpp.o.ddi: \
+ /home/michal/Desktop/log_zad9/main.cpp /usr/include/stdc-predef.h \
+ /usr/include/c++/14.2.1/iostream \
  /usr/include/c++/14.2.1/bits/requires_hosted.h \
  /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
  /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
@@ -142,9 +142,8 @@ CMakeFiles/log_zad7.dir/main.cpp.o.ddi: \
  /usr/include/c++/14.2.1/bits/locale_facets.tcc \
  /usr/include/c++/14.2.1/bits/basic_ios.tcc \
  /usr/include/c++/14.2.1/bits/ostream.tcc /usr/include/c++/14.2.1/istream \
- /usr/include/c++/14.2.1/bits/istream.tcc /usr/include/c++/14.2.1/vector \
- /usr/include/c++/14.2.1/bits/stl_uninitialized.h \
- /usr/include/c++/14.2.1/bits/stl_vector.h \
- /usr/include/c++/14.2.1/bits/stl_bvector.h \
- /usr/include/c++/14.2.1/bits/vector.tcc /usr/include/c++/14.2.1/sstream \
- /usr/include/c++/14.2.1/bits/sstream.tcc
+ /usr/include/c++/14.2.1/bits/istream.tcc /usr/include/c++/14.2.1/fstream \
+ /usr/include/c++/14.2.1/bits/codecvt.h \
+ /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/basic_file.h \
+ /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++io.h \
+ /usr/include/c++/14.2.1/bits/fstream.tcc
