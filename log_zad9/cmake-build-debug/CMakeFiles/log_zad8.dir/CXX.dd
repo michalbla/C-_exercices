@@ -1,3 +1,0 @@
-ninja_dyndep_version = 1.0
-build CMakeFiles/log_zad8.dir/main.cpp.o: dyndep
-
