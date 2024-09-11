@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/michal/Desktop/C-_exercices/fun_zad7/cmake-build-debug"
+			"value" : "/home/michal/Desktop/C-_exercices/Class_zad1/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -543,7 +543,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/michal/Desktop/C-_exercices/fun_zad7/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/home/michal/Desktop/C-_exercices/Class_zad1/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -603,7 +603,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/michal/Desktop/C-_exercices/fun_zad7"
+			"value" : "/home/michal/Desktop/C-_exercices/Class_zad1"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -843,7 +843,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "fun_zad7"
+			"value" : "Class_zad1"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1142,19 +1142,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "linker supports push/pop state"
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : "TRUE"
-		},
-		{
-			"name" : "fun_zad7_BINARY_DIR",
+			"name" : "Class_zad1_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1163,10 +1151,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/michal/Desktop/C-_exercices/fun_zad7/cmake-build-debug"
+			"value" : "/home/michal/Desktop/C-_exercices/Class_zad1/cmake-build-debug"
 		},
 		{
-			"name" : "fun_zad7_IS_TOP_LEVEL",
+			"name" : "Class_zad1_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1178,7 +1166,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "fun_zad7_SOURCE_DIR",
+			"name" : "Class_zad1_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1187,7 +1175,19 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/michal/Desktop/C-_exercices/fun_zad7"
+			"value" : "/home/michal/Desktop/C-_exercices/Class_zad1"
+		},
+		{
+			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "linker supports push/pop state"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "TRUE"
 		}
 	],
 	"kind" : "cache",

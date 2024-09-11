@@ -2,7 +2,7 @@
 #include <iostream>
 const int Max = 5;
 // function prototypes
-int fill_array(double ar[], int limit);
+int* fill_array(double ar[], int limit);
 void show_array(const double ar[], int n); // don't change data
 void revalue(double r, double ar[], int n);
 int main()
@@ -30,7 +30,7 @@ int main()
     cin.get();
     return 0;
 }
-int fill_array(double ar[], int limit)
+int* fill_array(double ar[], int limit)
 {
     using namespace std;
     double temp;
