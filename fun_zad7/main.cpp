@@ -9,8 +9,8 @@ int main()
 {
     using namespace std;
     double properties[Max];
-    int size = fill_array(properties, Max);
-    show_array(properties, size);
+    int* size = fill_array(properties, Max);
+    show_array(properties, *size);
     if (size > 0)
     {
         cout << "Enter revaluation factor: ";
@@ -22,8 +22,8 @@ int main()
                 continue;
             cout << "Bad input; Please enter a number: ";
         }
-        revalue(factor, properties, size);
-        show_array(properties, size);
+        revalue(factor, properties, *size);
+        show_array(properties, *size);
     }
     cout << "Done.\n";
     cin.get();
@@ -51,7 +51,7 @@ int* fill_array(double ar[], int limit)
             break;
         ar[i] = temp;
     }
-    return i;
+    return &i;
 }
 // the following function can use, but not alter,
 // the array whose address is ar
